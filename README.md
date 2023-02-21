@@ -1,4 +1,4 @@
 # BankingSolution
 Java project - learning
 
-Create Bank account, transfur money
+Create Bank account, transfer money
